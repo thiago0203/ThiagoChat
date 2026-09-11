@@ -4,7 +4,7 @@ Code source Turbowarp de :
 - Thiago Torch Chat
 - Thiago Torch Chat Lite
 - Thiago Torch Chat Lite (Kahoot!)
-- ThiagoChat Next
+- ~~ThiagoChat Next~~ _Indisponible car le fichier est trop gros_
 - OpenCloudChat
 
 ## Ouvrir les fichiers
